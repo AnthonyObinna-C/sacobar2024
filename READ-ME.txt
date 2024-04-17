@@ -1,0 +1,378 @@
+</section>><br>
+<!-- Banner Section end -->
+<style>
+div.gallery {
+  border: 3px solid #225F8A;
+}
+
+div.gallery:hover {
+  border: 3px solid #04d71d;
+}
+
+div.img:hover {
+  border: 5px solid #fff;
+  -webkit-transform: scale(1.1);
+  -ms-transform: scale(1.1);
+  transform: scale(1.1);
+  -webkit-filter: none;
+  filter: none;
+}
+
+.gallery img {
+  width: 100%;
+  height: 400;
+}
+
+div.desc {
+  padding: 15px;
+  text-align: center;
+}
+
+* {
+  box-sizing: border-box;
+}
+.responsive {
+  padding: 0 6px;
+  float: left;
+  width: 24.99999%;
+}
+
+@media only screen and (max-width: 700px) {
+  .responsive {
+    width: 49.99999%;
+    margin: 6px 0;
+  }
+}
+
+@media only screen and (max-width: 500px) {
+  .responsive {
+    width: 100%;
+  }
+}
+
+.clearfix {
+  content: "";
+  display: table;
+  clear: both;
+}
+</style>
+
+<div class="responsive">
+  <div class="gallery">
+    <a target="_blank" href="#">
+      <img src="img/IPC/picture8.png" alt="Cinque Terre" width="600" height="400">
+    </a>
+    <div class="desc"><h5>John Agbo OGBODO</h5> Founding Director, SIBRED <br>Chair, SACOBAR 2024 Local Organizing Committee (LOC)</div>
+</div>
+</div>
+
+
+<div class="responsive">
+  <div class="gallery">
+    <a target="_blank" href="#">
+      <img src="img/loc/picture4.png" alt="Forest" width="600" height="400">
+    </a>
+    <div class="desc"><h5>Dr. Adaeze ACHUGBU</h5> Deputy Director of SIBRED, UNIZIK <br> Convener, SACOBAR 2024 (LOC on Hotel Accommodation and Airport Pickups Subcommittee)</div>
+  </div>
+</div>
+
+<div class="responsive">
+  <div class="gallery">
+    <a target="_blank" href="#">
+      <img src="img/loc/picture1.jpg" alt="Northern Lights" width="600" height="400">
+    </a>
+    <div class="desc"><h5>Dara Chijioke OKECHUKWU</h5> Chairman, Southeast Heads of Federal Establishments, <br>Nigeria Convener, SACOBAR 2024 (LOC on Partnerships, Fundraising and Sponsorships)</div>
+  </div>
+</div>
+
+<div class="responsive">
+  <div class="gallery">
+    <a target="_blank" href="#">
+      <img src="img/loc/picture2.png" alt="Mountains" width="600" height="400">
+    </a>
+    <div class="desc"><h5>Chioma Doris OKAFOR</h5> Personal Assistant to the Federal Director of Forestry, Federal Ministry of Environment, Abuja <br>Member, SACOBAR 2024 (LOC on Abuja Airport Logistics and VIP Invitation Subcommittee)</div>
+  </div>
+</div>
+<div class="responsive">
+  <div class="gallery">
+    <a target="_blank" href="#">
+      <img src="img/loc/picture3.png" alt="Mountains" width="600" height="400">
+    </a>
+    <div class="desc"><h5>Hon. Sebastine Terhemen GWABO</h5> Secretary to Guma Local Govt. Council, Benue State <br>Member, SACOBAR 2024 (LOC  - Northcentral Nigeria Mobilization)</div>
+  </div>
+</div>
+<div class="responsive">
+  <div class="gallery">
+    <a target="_blank" href="#">
+      <img src="img/loc/picture5.png" alt="Mountains" width="600" height="400">
+    </a>
+    <div class="desc"><h5>Dr. Sylvia Ifeoma OFOEDU</h5> Faculty Of Agriculture And Natural Resources, Enugu State University of Science and Technology (ESUT) <br>Member, LOC SACOBAR 2024</div>
+  </div>
+</div>
+<div class="responsive">
+  <div class="gallery">
+    <a target="_blank" href="#">
+      <img src="img/loc/picture6.png" alt="Mountains" width="600" height="400">
+    </a>
+    <div class="desc"><h5>Ebuka Augustine UGWU</h5> SIBRED, UNIZIK <br>Member, SACOBAR 2024 (LOC on Venue and Utilities) </div>
+  </div>
+</div>
+<div class="responsive">
+  <div class="gallery">
+    <a target="_blank" href="#">
+      <img src="img/loc/picture7.png" alt="Mountains" width="600" height="400">
+    </a>
+    <div class="desc"><h5>Chief Engr. John A. OGWU</h5>
+President, Bamboo Farmers Association of Nigeria <br>Member, SACOBAR 2024 (LOC on Exhibition and Bamboo Food Vendors mobilization)
+</div>
+  </div>
+</div>
+<div class="responsive">
+  <div class="gallery">
+    <a target="_blank" href="">
+      <img src="img/loc/picture8.png" alt="Mountains" width="600" height="400">
+    </a>
+    <div class="desc"><h5>Prof. Nkiru Theresa Meludu</h5>
+
+Convener, SACOBAR 2024 (LOC on Exhibition and Bamboo Food Vendors mobilization Subcommittee)</div>
+  </div>
+</div>
+<div class="responsive">
+  <div class="gallery">
+    <a target="_blank" href="#">
+      <img src="img/loc/picture9.png" alt="Mountains" width="600" height="400">
+    </a>
+    <div class="desc"><h5>Chisom Finian IROKA</h5>
+Faculty of Biosciences, UNIZIK <br> Convener, SACOBAR 2024 (LOC on Bamboo and Rattan Farm Plantation Subcommittee)</div>
+  </div>
+</div>
+<div class="responsive">
+  <div class="gallery">
+    <a target="_blank" href="#">
+      <img src="img/loc/picture10.png" alt="Mountains" width="600" height="400">
+    </a>
+    <div class="desc"><h5>Samuel Anarah</h5>
+
+Deputy Convener, SACOBAR 2024 (LOC on Hotel Accommodation and Airport Pickups Subcommittee)</div>
+  </div>
+</div>
+<div class="responsive">
+  <div class="gallery">
+    <a target="_blank" href="#">
+      <img src="img/loc/picture11.png" alt="Mountains" width="600" height="400">
+    </a>
+    <div class="desc"><h5>Dr. Akudo Ogechukwu ONUNWA</h5>
+Faculty of Agriculture, UNIZIK <br> Convener, SACOBAR 2024 (LOC on Scientific Sessions and Book of Proceedings Drafting Subcommittee) </div>
+  </div>
+</div>
+<div class="responsive">
+  <div class="gallery">
+    <a target="_blank" href="#">
+      <img src="img/loc/picture12.png" alt="Mountains" width="600" height="400">
+    </a>
+    <div class="desc"><h5>Alfred AJAYI</h5>
+Federal Radio Corporation of Nigeria (FRCN) <br> Convener, SACOBAR 2024 (LOC on  Media,  Press and Master of Ceremony Subcommittee)</div>
+  </div>
+</div>
+<div class="responsive">
+  <div class="gallery">
+    <a target="_blank" href="#">
+      <img src="img/loc/picture13.png" alt="Mountains" width="600" height="400">
+    </a>
+    <div class="desc"><h5>Dr. Christopher Uche OKOLIE</h5> Faculty of Biosciences, UNIZIK <br>Member Convener, SACOBAR 2024 (LOC on Scientific Sessions and Book of Proceedings Drafting Subcommittee)</div>
+  </div>
+</div>
+<div class="responsive">
+  <div class="gallery">
+    <a target="_blank" href="#">
+      <img src="img/loc/picture14.png" alt="Mountains" width="600" height="400">
+    </a>
+    <div class="desc"><h5>Paschal Oshen Odey</h5>SIBRED, UNIZIK <br>Convener, SACOBAR 2024 (LOC on Security and Protocols)</div>
+  </div>
+</div>
+<div class="responsive">
+  <div class="gallery">
+    <a target="_blank" href="#">
+      <img src="img/loc/picture15.png" alt="Mountains" width="600" height="400">
+    </a>
+    <div class="desc"><h5>Dr. Mrs. Temple Nneamaka Nwankwo</h5> SIBRED, UNIZIK <br>Convener, SACOBAR 2024 (LOC on Refreshments Subcommittee)</div>
+  </div>
+</div>
+<div class="responsive">
+  <div class="gallery">
+    <a target="_blank" href="#">
+      <img src="img/loc/picture16.png" alt="Mountains" width="600" height="400">
+    </a>
+    <div class="desc"><h5>Prof. Ejeatuluchukwu Obi</h5> Co- Initiator, SIBRED UNIZIK <br> Convener, SACOBAR 2024 (Guided Tour Arrangement and Traditional Ruler Visitations)</div>
+  </div>
+</div>
+<div class="responsive">
+  <div class="gallery">
+    <a target="_blank" href="#">
+      <img src="img/loc/picture17.jpg" alt="Mountains" width="600" height="400">
+    </a>
+    <div class="desc"><h5>Mrs. Alaba ADZANDEH</h5>Convener, SACOBAR 2024 (LOC on Abuja Airport Logistics Sport for International Members and VIP Invitation Subcommittee)</div>
+  </div>
+</div>
+<div class="responsive">
+  <div class="gallery">
+    <a target="_blank" href="#">
+      <img src="img/loc/picture18.png" alt="Mountains" width="600" height="400">
+    </a>
+    <div class="desc"><h5>Justin ALIGAMHE</h5> Federal Department of Forestry, Federal Ministry of Environment, Abuja <br> Member, SACOBAR 2024 (LOC on Abuja Airport Logistics and VIP Invitation Subcommittee)</div>
+  </div>
+</div>
+<div class="responsive">
+  <div class="gallery">
+    <a target="_blank" href="#">
+      <img src="img/loc/picture19.png" alt="Mountains" width="600" height="400">
+    </a>
+    <div class="desc"><h5>Mrs. Uwemedimo CLEMENT</h5>National Environmental Standards and Regulations Enforcement Agency (NESREA), Abuja <br>Member, SACOBAR 2024 (LOC on Abuja Airport Logistics Sport for International Members and VIP Invitation Subcommittee)</div>
+  </div>
+</div>
+<div class="responsive">
+  <div class="gallery">
+    <a target="_blank" href="#">
+      <img src="img/loc/picture20.png" alt="Mountains" width="600" height="400">
+    </a>
+    <div class="desc"><h5>Matthew Adoga AGAMA</h5> Department of Entrepreneurship, Federal College of Education (Technical) Umunze. <br>Deputy Convener, SACOBAR 2024 (LOC on  Skills Acquisition/Trainings Workshop)</div>
+  </div>
+</div>
+<div class="responsive">
+  <div class="gallery">
+    <a target="_blank" href="#">
+      <img src="img/loc/picture21.png" alt="Mountains" width="600" height="400">
+    </a>
+    <div class="desc"><h5>Peter Jatau GODWIN</h5> Federal University Dutsin-Ma, Katsina State, Nigeria <br>Member, SACOBAR 2024 (LOC, Northwest, Nigeria) </div>
+  </div>
+</div>
+<div class="responsive">
+  <div class="gallery">
+    <a target="_blank" href="#">
+      <img src="img/loc/picture22.png" alt="Mountains" width="600" height="400">
+    </a>
+    <div class="desc"><h5>Precious Chibueze CHILAKA</h5> Faculty of Agriculture, Nnamdi Azikiwe University, Awka <br> Deputy Convener, SACOBAR 2024 (LOC Social Media,  ICT and Projectors)</div>
+  </div>
+</div>
+<div class="responsive">
+  <div class="gallery">
+    <a target="_blank" href="#">
+      <img src="img/loc/picture23.png" alt="Mountains" width="600" height="400">
+    </a>
+    <div class="desc"><h5>Mr. Emmanuel Hussaini</h5>Coordinator, Standards Organization of Nigeria (S.O.N) Awka Office br Convener, SACOBAR 2024 (LOC Advertisement, Vendor and Sponsorship Subcommittee)</div>
+  </div>
+</div>
+<div class="responsive">
+  <div class="gallery">
+    <a target="_blank" href="#">
+      <img src="img/loc/picture24.png" alt="IGWILO" width="600" height="400">
+    </a>
+    <div class="desc"><h5>Mrs. Chizoba Quinette IGWILO</h5> SIBRED UNIZIK <br>Convener, SACOBAR 2024 (LOC Ushering and Regsitration Desk)</div>
+  </div>
+</div>
+<div class="responsive">
+  <div class="gallery">
+    <a target="_blank" href="#">
+      <img src="img/loc/picture25.png" alt="OKAFOR" width="600" height="400">
+    </a>
+    <div class="desc"><h5>Mrs. Nkem C. OKAFOR</h5> SIBRED UNIZIK <br>Deputy Convener, SACOBAR 2024 (LOC on Refreshments Subcommittee)</div>
+  </div>
+</div>
+<div class="responsive">
+  <div class="gallery">
+    <a target="_blank" href="#">
+      <img src="img/loc/picture26.png" alt="OGAMBA" width="600" height="400">
+    </a>
+    <div class="desc"><h5>Ngozi Blessing OGAMBA</h5> SIBRED UNIZIK <br>Member, SACOBAR 2024 (LOC Financial Secretary)</div>
+  </div>
+</div>
+<div class="responsive">
+  <div class="gallery">
+    <a target="_blank" href="#">
+      <img src="img/loc/picture27.png" alt="IKEH-UNEKWE" width="600" height="400">
+    </a>
+    <div class="desc"><h5>Roseline Nzube IKEH-UNEKWE</h5> SIBRED UNIZIK <br> LOC Secretary of SACOBAR 2024 (Convener, Rapporteuring and Communique Drafting Subcommittee)</div>
+  </div>
+</div>
+<div class="responsive">
+  <div class="gallery">
+    <a target="_blank" href="#">
+      <img src="img/loc/picture28.png" alt="AGAH" width="600" height="400">
+    </a>
+    <div class="desc"><h5>Christopher I. AGAH</h5> SIBRED UNIZIK <br>Member, SACOBAR 2024 (LOC on Bamboo and Rattan Farm Plantation Subcommittee)</div>
+  </div>
+</div>
+<div class="responsive">
+  <div class="gallery">
+    <a target="_blank" href="#">
+      <img src="img/loc/picture29.png" alt="OKOROJI" width="600" height="400">
+    </a>
+    <div class="desc"><h5>Dr. Nma Okechukwu OKOROJI</h5> Cocoa Farmers Association of Nigeria (CFAN) <br>Member, SACOBAR 2024 (LOC on Scientific Sessions Subcommittee)  and Madam of Ceremony (MC)</div>
+  </div>
+</div>
+<div class="responsive">
+  <div class="gallery">
+    <a target="_blank" href="#">
+      <img src="img/loc/picture30.png" alt="ENEFU" width="600" height="400">
+    </a>
+    <div class="desc"><h5>Abraham ENEFU</h5> Modern European Languages Department, UNIZIK <br>Member, SACOBAR 2024 (Master of Ceremony (Franch language))</div>
+  </div>
+</div>
+<div class="responsive">
+  <div class="gallery">
+    <a target="_blank" href="#">
+      <img src="img/loc/picture31.png" alt="NKANU" width="600" height="400">
+    </a>
+    <div class="desc"><h5>Alice NKANU</h5>National Agency for the Great Green Wall, Abuja <br>Member, SACOBAR 2024 (LOC on Abuja Airport Logistics and VIP Invitation Subcommittee)</div>
+  </div>
+</div>
+<div class="responsive">
+  <div class="gallery">
+    <a target="_blank" href="#">
+      <img src="img/loc/picture32.png" alt="Abdulahi" width="600" height="400">
+    </a>
+    <div class="desc"><h5>Dr. Taiwo Olabisi Abdulahi</h5> Department of Cooperatives Economics, UNIZIK <br>Deputy Convener, SACOBAR 2024 (LOC on  Skills Acquisition/Trainings Workshop)</div>
+  </div>
+</div>
+<div class="responsive">
+  <div class="gallery">
+    <a target="_blank" href="#">
+      <img src="img/loc/picture33.png" alt="Ogbodo" width="600" height="400">
+    </a>
+    <div class="desc"><h5>Mrs. Joy P. I. Ogbodo</h5> Program Director, <br> STEi Foundation <br>Member, SACOBAR 2024 (LOC on Refreshments Subcommittee)</div>
+  </div>
+</div>
+<div class="responsive">
+  <div class="gallery">
+    <a target="_blank" href="#">
+      <img src="img/loc/picture34.png" alt="EGWUNATUM" width="600" height="400">
+    </a>
+    <div class="desc"><h5>Dr. Anselm E. EGWUNATUM</h5> Faculty of Agriculture <br> Deputy Convener, SACOBAR 2024 (LOC on Scientific Sessions and Book of Proceedings Drafting Subcommittee) </div>
+  </div>
+</div>
+<div class="responsive">
+  <div class="gallery">
+    <a target="_blank" href="#">
+      <img src="img/loc/picture35.png" alt="ANWAEGBU" width="600" height="400">
+    </a>
+    <div class="desc"><h5>Mrs. Nkiru Roberta ANWAEGBU, CLN</h5> Faculty of Agriculture Library, <br>SACOBAR 2024 (LOC on Scientific Sessions and Book of Proceedings Drafting Subcommittee)</div>
+  </div>
+</div>
+<div class="responsive">
+  <div class="gallery">
+    <a target="_blank" href="#">
+      <img src="img/loc/picture36.jpg" alt="Amadi" width="600" height="400">
+    </a>
+    <div class="desc"><h5>Kingsley K. A. Amadi</h5> Faculty of Agriculture, Nnamdi Azikiwe University, Awka <br>(LOC on Bamboo and Rattan Farm Plantation Subcommittee)</div>
+  </div>
+</div>
+<div class="responsive">
+  <div class="gallery">
+    <a target="_blank" href="#">
+      <img src="img/loc/picture37.jpg" alt="OKOLIE" width="600" height="400">
+    </a>
+    <div class="desc"><h5>Dr. Henry OKOLIE</h5> Faculty of Agriculture, Nnamdi Azikiwe University, Awka <br> (LOC on Bamboo and Rattan Farm Plantation Subcommittee)
+</div>
+  </div>
+</div>
+<div class="clearfix"></div>
